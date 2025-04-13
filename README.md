@@ -69,12 +69,9 @@
 
 + InputManager - 사용자 입력 관리 매니저
 + ParticalManager - 파티클 생성 유틸
-+ PhotonNetworkManager - 포톤 네트워크 객체 관리 매니저
 + PoolManager - 오브젝트 풀링 매니저
 + ResourceManager - 리소스 매니저
-+ SceneManager - 씬 매니저
 + SoundManager - 사운드 매니저
-+ UIManager - UI 매니저
 
         
 ### **컨텐츠 매니저**
@@ -406,30 +403,6 @@ ContentsScene
   + Controller3D에서 선언되어 있는 SetPhysics에서 매개변수로 온 값을 가지고 효과를 적용시킵니다.
 
 [Controller3D.cs](https://github.com/k660323/FunnyLand/blob/main/Scripts/Controllers/BaseController/3D/Controller3D.cs) 
-
-<br>
-
----
-
-<br>
-
-### **기타**
-+ UI_Chat
-  + 룸 오브젝트
-  + InputField에 보낼 텍스트를 입력 후 전송시, 포멧으로 플레이어 닉네임 삽입 후 포톤 서버에 전송하여 서버에서 모든 클라이언트에게 데이터 전송한다.
-    
-[UI_Chat.cs](https://github.com/k660323/FunnyLand/blob/main/Scripts/UI/Scene/UI_Chat.cs)
-
-<br>
-     
-+ EnviromentController
-  + 3D 게임의 경험을 다양하게 하기 위한 일종의 환경광 프리셋 클래스
-
-[EnviromentController.cs](https://github.com/k660323/FunnyLand/blob/main/Scripts/Contents/EnviromentController.cs)
-
-### 환경광 동기화
-  + 마스터 클라이언트가 Start함수를 실행시 enviroments 배열 중에서 랜덤으로 선택
-  + ApplyWeather함수를 RPC해서 모든 클라이언트의 환경광을 동일하게 맞춰줍니다.
 
 <br>
 
