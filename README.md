@@ -2,14 +2,14 @@
 ## 1. 소개
 
 <div align="center">
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EB%A9%94%EC%9D%B81.JPG" width="33%" height="550"/>
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EB%B9%B5%20%ED%94%BD%EC%97%85.JPG" width="33%" height="550"/>
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EB%B9%B5%20%EC%A7%84%EC%97%B4.JPG" width="33%" height="550"/>
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B3%84%EC%82%B0.JPG" width="33%" height="550"/>
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B9%20%EC%9A%94%EA%B5%AC.JPG" width="33%" height="550"/>
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B9%20%EC%98%A4%ED%94%88.JPG" width="33%" height="550"/>
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B92.JPG" width="33%" height="550"/>
-  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B93.JPG" width="33%" height="550"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EB%A9%94%EC%9D%B81.JPG" width="33%" height="600"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EB%B9%B5%20%ED%94%BD%EC%97%85.JPG" width="33%" height="600"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EB%B9%B5%20%EC%A7%84%EC%97%B4.JPG" width="33%" height="600"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B3%84%EC%82%B0.JPG" width="33%" height="600"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B9%20%EC%9A%94%EA%B5%AC.JPG" width="33%" height="600"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B9%20%EC%98%A4%ED%94%88.JPG" width="33%" height="600"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B92.JPG" width="33%" height="600"/>
+  <img src="https://github.com/k660323/HyperCasualAssignments/blob/main/Image/%EA%B8%B0%EB%AF%B93.JPG" width="33%" height="600"/>
   
   < 게임 플레이 사진 >
 </div>
