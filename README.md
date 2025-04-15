@@ -154,7 +154,7 @@
 
 [CustomerController](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Controllers/CustomerController.cs)
 
-// 기믹, 패널, 등
+// 기믹, 패널, 사용자 입력, 등
     
 <br>
 
