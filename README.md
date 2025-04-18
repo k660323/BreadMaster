@@ -114,6 +114,7 @@
  
 [EventManager.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Managers/Contents/EventManager.cs)
 
+<br>
 
 + EventSequence
   + EventManager에서 이벤트를 관리및 활성화 하는데 사용되는 클래스
@@ -133,12 +134,14 @@
 
 [Creature.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/Creature.cs)
 
+<br>
 
 + Player
   + 플레이어의 현재 상태를 저장하는 Stat 클래스, 플레이어 입력을 관리하는 PlayerController 클래스, 상태를 UI를 표현하는 게임 오브젝트 가지며 이를 초기화 하는 클래스
 
 [Player.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/Player.cs)
 
+<br>
 
 + Customer
   + 손님 로직을 정의한 클래스
@@ -146,6 +149,7 @@
 
 [Customer.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/Customer.cs)
 
+<br>
 
 + BaseController
   + Creature 오브젝트를 제어하기 위한 추상 클래스
@@ -153,6 +157,7 @@
 
 [BaseController.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Controllers/BaseController.cs)
 
+<br>
 
 + PlayerController
   + 플레이어 상태를 정의한 클래스
@@ -160,6 +165,7 @@
  
 [PlayerController.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Controllers/PlayerController.cs)
 
+<br>
 
 + CustomerController
   + 손님에 대한 상태를 정의한 클래스
@@ -181,6 +187,7 @@
 
 [Gimmick](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/Gimmik/Gimmick.cs)
 
+<br>
 
 + Pannel
   + 특정 Gimick을 오픈하기 위한 Pannel
@@ -202,6 +209,7 @@
 
 [UI_GameScene](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/UI/Scene/UI_GameScene.cs)
 
+<br>
 
 + UI_JoyStick
   + 플레이어의 입력을 받는 조이스틱 클래스
@@ -221,6 +229,7 @@
  
 [Define](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Utils/Define.cs)
 
+<br>
 
 + Util
   + 유용하고 자주 사용하는 함수들을 정의한 클래스
