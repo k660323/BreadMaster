@@ -203,6 +203,19 @@
 
 <br>
 
++ Food
+  + 음식 오브젝트를 정의한 추상 클래스
+  + 플레이어와 손님 및 Gimmik이 서로 상호작용 하기 위한 클래스
+  + 특정 오브젝트에게 이동하도록 보간 함수 구현
+
+[Food](https://github.com/k660323/BreadMaster/blob/main/Scripts/Contents/Food.cs)
+
+<br>
+
+---
+
+<br>
+
 + UI_GameScene
   + 현재 플레이어가 소지한 금액을 UI로 표현해주는 클래스
   + 이벤트 방식으로 데이터 변경시 갱신
