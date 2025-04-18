@@ -1,4 +1,4 @@
-# [Unity 3D] HyperCasualGame
+# [Unity 3D] BreadMaster
 ## 1. 소개
 
 <div align="center">
@@ -14,7 +14,7 @@
   < 게임 플레이 사진 >
 </div>
 
-+ HyperCasualGame
++ BreadMaster
   + 간단한 하이퍼 캐주얼 게임 입니다.
  
 + 목표
