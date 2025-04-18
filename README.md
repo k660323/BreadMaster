@@ -148,14 +148,60 @@
  
 [PlayerController.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Controllers/PlayerController.cs)
 
+
 + CustomerController
   + 손님에 대한 상태를 정의한 클래스
-  + 행동 로직에 대한 전반적인 기능 구현
+  + 각 상태에 대한 행동 로직 구현
 
 [CustomerController](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Controllers/CustomerController.cs)
 
-// 기믹, 패널, 사용자 입력, 등
-    
+
++ Gimmick
+  + 플레이어 및 손님과 상호작용할 수 있는 추상 클래스
+  + 동적 이벤트를 바인딩 가능 ( ex)EventSequence에 관한 로직 )
+  + 해당 Type이 어떤 클래스 인지 알기 위해 Enum으로 정의
+  + 각 목적에 맞게 상속받아 이를 구현함 (빵 생성기, 빵 진열대, 계산대 등)
+
+[Gimmick](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/Gimmik/Gimmick.cs)
+
+
++ Pannel
+  + 특정 Gimick을 오픈하기 위한 Pannel
+  + 일정 금액을 지불 후 해당 기믹을 스폰하는 형식의 클래스
+  + Gimmick와 동일하게 동적 이벤트 바인딩 가능  ( ex)EventSequence에 관한 로직 )
+  + 해당 Type이 어떤 클래스 인지 알기 위해 Enum으로 정의
+ 
+[Pannel](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/Panel/Panel.cs)
+
+
++ Define
+  + 컨텐츠에 사용하는 enum들을 정의한 클래스
+ 
+[Define](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Utils/Define.cs)
+
+
++ Util
+  + 유용하고 자주 사용하는 함수들을 정의한 클래스
+  + 컴포넌트 추가, 게임 오브젝트 찾기, 베지어 커브 등
+
+[Util](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Utils/Util.cs)
+
+
++ UI_GameScene
+  + 현재 플레이어가 소지한 금액을 UI로 표현해주는 클래스
+  + 이벤트 방식으로 데이터 변경시 갱신
+
+[UI_GameScene](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/UI/Scene/UI_GameScene.cs)
+
+
++ UI_JoyStick
+  + 플레이어의 입력을 받는 조이스틱 클래스
+  + 터치 이벤트 구현 (터치 되었을시, 터치중, 터치가 끝났을때)
+  + 입력된 값은 InputManager의 inputDir값을 갱신 시킨다.
+
+[UI_JoyStick](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/UI/SubItem/UI_JoyStick.cs)
+
+
 <br>
 
 ---
