@@ -101,6 +101,13 @@
     
 [GameScene.cs](https://github.com/k660323/FunnyLand/blob/main/Scripts/Scenes/GameScene.cs)
 
+
+<br>
+
+---
+
+<br>
+
 + EventManager
   + 플레이어가 특정 조건을 만족시 스크립트를 실행하는 매니저
   + 특정 조건이 만족되면 다음 이벤트를 실행한다.
@@ -114,6 +121,11 @@
  
 [EventSequence.cs](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/EventSequence/EventSequence.cs)
 
+<br>
+
+---
+
+<br>
 
 + Creature
   + 게임 컨텐츠에 사용될 메인 오브젝트 클래스 (플레이어, 손님)
@@ -155,6 +167,11 @@
 
 [CustomerController](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Controllers/CustomerController.cs)
 
+<br>
+
+---
+
+<br>
 
 + Gimmick
   + 플레이어 및 손님과 상호작용할 수 있는 추상 클래스
@@ -173,19 +190,11 @@
  
 [Pannel](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Contents/Panel/Panel.cs)
 
+<br>
 
-+ Define
-  + 컨텐츠에 사용하는 enum들을 정의한 클래스
- 
-[Define](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Utils/Define.cs)
+---
 
-
-+ Util
-  + 유용하고 자주 사용하는 함수들을 정의한 클래스
-  + 컴포넌트 추가, 게임 오브젝트 찾기, 베지어 커브 등
-
-[Util](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Utils/Util.cs)
-
+<br>
 
 + UI_GameScene
   + 현재 플레이어가 소지한 금액을 UI로 표현해주는 클래스
@@ -201,12 +210,30 @@
 
 [UI_JoyStick](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/UI/SubItem/UI_JoyStick.cs)
 
+<br>
+
+---
+
+<br>
+
++ Define
+  + 컨텐츠에 사용하는 enum들을 정의한 클래스
+ 
+[Define](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Utils/Define.cs)
+
+
++ Util
+  + 유용하고 자주 사용하는 함수들을 정의한 클래스
+  + 컴포넌트 추가, 게임 오브젝트 찾기, 배지어 커브 등
+
+[Util](https://github.com/k660323/HyperCasualAssignments/blob/main/Scripts/Utils/Util.cs)
 
 <br>
 
 ---
 
 <br>
+
 
 ## 5. 구현에 어려웠던 점과 해결과정
 + 기존의 방식으로 새로운 방식과 장르의 게임을 구현하는데 살짝 어려움이 있었습니다.
